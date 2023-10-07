@@ -1,7 +1,7 @@
 # Codeforces-1437D-Minimal-Height-Tree
 Link: https://codeforces.com/problemset/problem/1437/D
 ### Visualization
-
+![image](https://github.com/mgalang229/Codeforces-1437D-Minimal-Height-Tree/assets/51401355/9e3ece01-aeba-40fe-a829-bcd3b5ea23ae)
 ### Sample Test Cases
 ```
 goal:
